@@ -1,4 +1,4 @@
-# Regression-Project
+# BigMart Sales Prediction - Machine Learning
 
 #Big Mart Sales Prediction
 Problem Definition :
